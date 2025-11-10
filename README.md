@@ -110,3 +110,4 @@ Business Impact & Insights
 3.Optimized ad budget allocation based on ROI and engagement patterns.
 
 6. Screenshots / Demos
+   https://github.com/nitj8/Meta-Ad-Performance-Dashboard/blob/main/Meta%20Ad%20Performance%20Dashboard.png
